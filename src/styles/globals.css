@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+  --background: #F5F1EB;
+  --foreground: #1B3B3B;
+  --card: #FFFFFF;
+  --card-foreground: #1B3B3B;
+  --popover: #FFFFFF;
+  --popover-foreground: #1B3B3B;
+  --primary: #1B4D4D;
+  --primary-foreground: #F5F1EB;
+  --secondary: #4A9B9B;
+  --secondary-foreground: #FFFFFF;
+  --muted: #E8E4DE;
+  --muted-foreground: #5A7A7A;
+  --accent: #4A9B9B;
+  --accent-foreground: #FFFFFF;
+  --destructive: #DC2626;
+  --destructive-foreground: #FFFFFF;
+  --border: #D4CFC7;
+  --input: #D4CFC7;
+  --ring: #4A9B9B;
+  --chart-1: #1B4D4D;
+  --chart-2: #4A9B9B;
+  --chart-3: #6DB5B5;
+  --chart-4: #8FCFCF;
+  --chart-5: #B1E9E9;
+  --radius: 0.75rem;
+  
+  --teal-dark: #1B4D4D;
+  --teal-medium: #4A9B9B;
+  --teal-light: #6DB5B5;
+  --cream: #F5F1EB;
+  --cream-dark: #E8E4DE;
+  --discount: #16A34A;
+  }
+
+  .dark {
+  --background: #0F1F1F;
+  --foreground: #F5F1EB;
+  --card: #1B3B3B;
+  --card-foreground: #F5F1EB;
+  --popover: #1B3B3B;
+  --popover-foreground: #F5F1EB;
+  --primary: #4A9B9B;
+  --primary-foreground: #0F1F1F;
+  --secondary: #1B4D4D;
+  --secondary-foreground: #F5F1EB;
+  --muted: #2A4A4A;
+  --muted-foreground: #8FCFCF;
+  --accent: #4A9B9B;
+  --accent-foreground: #0F1F1F;
+  --destructive: #EF4444;
+  --destructive-foreground: #FFFFFF;
+  --border: #2A4A4A;
+  --input: #2A4A4A;
+  --ring: #4A9B9B;
+  }
+
+  * {
+    @apply border-border;
+  }
+  
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+    font-family: 'Inter', 'Geist', sans-serif;
+  }
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--cream-dark);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--teal-medium);
+  border-radius: 4px;
+  transition: background 0.2s ease;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--teal-dark);
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slide-up {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slide-in-left {
+  from {
+    opacity: 0;
+    transform: translateX(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes scale-in {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.animate-fade-in {
+  animation: fade-in 0.6s ease-out;
+}
+
+.animate-slide-up {
+  animation: slide-up 0.6s ease-out;
+}
+
+.animate-slide-in-left {
+  animation: slide-in-left 0.6s ease-out;
+}
+
+.animate-scale-in {
+  animation: scale-in 0.4s ease-out;
+}
