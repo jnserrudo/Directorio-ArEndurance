@@ -2,10 +2,11 @@ import { camposSugeridos } from '@/lib/emprendimientos'
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { Badge } from '@/components/ui/badge'
 import { Lightbulb, CheckCircle2, Plus } from 'lucide-react'
+import { EmprendimientoFormModal } from '@/components/forms/EmprendimientoFormModal'
 
 export function SuggestionsSection() {
   return (
-    <section className="py-8 bg-stone-50">
+    <section id="sumar-emprendimiento" className="py-8 bg-stone-50">
       <div className="max-w-5xl mx-auto px-4">
         <Card className="bg-white border border-stone-200 shadow-sm overflow-hidden">
           <CardHeader className="text-center pb-4 pt-5 bg-white border-b border-stone-200">
@@ -42,21 +43,23 @@ export function SuggestionsSection() {
               ))}
             </div>
 
-            <div className="mt-4 p-4 bg-[#4A9B9B]/5 rounded-lg border border-[#4A9B9B]/20">
-              <div className="flex items-start gap-3">
-                <div className="flex items-center justify-center w-10 h-10 bg-[#1B4D4D] rounded-lg shrink-0">
-                  <Plus className="h-5 w-5 text-white" />
+            <EmprendimientoFormModal>
+              <button className="mt-4 w-full p-4 bg-[#4A9B9B]/5 hover:bg-[#4A9B9B]/10 rounded-lg border border-[#4A9B9B]/20 hover:border-[#4A9B9B]/40 transition-all cursor-pointer text-left group">
+                <div className="flex items-start gap-3">
+                  <div className="flex items-center justify-center w-10 h-10 bg-[#1B4D4D] group-hover:bg-[#4A9B9B] rounded-lg shrink-0 transition-colors">
+                    <Plus className="h-5 w-5 text-white" />
+                  </div>
+                  <div>
+                    <p className="font-bold text-[#1B4D4D] mb-1 text-base group-hover:text-[#4A9B9B] transition-colors">
+                      ¿Querés sumar tu emprendimiento?
+                    </p>
+                    <p className="text-sm text-stone-600">
+                      Contactanos y te agregamos al directorio de la familia ArEndurance
+                    </p>
+                  </div>
                 </div>
-                <div>
-                  <p className="font-bold text-[#1B4D4D] mb-1 text-base">
-                    ¿Querés sumar tu emprendimiento?
-                  </p>
-                  <p className="text-sm text-stone-600">
-                    Contactanos y te agregamos al directorio de la familia ArEndurance
-                  </p>
-                </div>
-              </div>
-            </div>
+              </button>
+            </EmprendimientoFormModal>
           </CardContent>
         </Card>
       </div>
