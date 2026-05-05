@@ -1,0 +1,268 @@
+*NUEVO EMPRENDIMIENTO - ArEndurance*
+
+*Datos para agregar al directorio:*
+
+*Nombre:* Nia Reniero
+*Empresa:* El taller de Prismo
+*Rubro:* Taller de diseño y confección textil 
+*Descripcion:* En el Taller de Prismo encontrás 
+- Línea exclusiva de indumentaria unisex (camisas, chaquetas y sastrería). Diseños propios en stock o a pedido.
+- Confección a medida: atención personalizada para encontrar el diseño que más te guste y asesoramiento en la elección de telas.
+-Indumentaria para danza y teatro: confección de trajes y vestuarios temáticos.
+-Arreglos y transformaciones: reparaciones en general y reciclaje de prendas (Upcycling)
+*Direccion:* (Sin direccion)
+*Telefono:* 3875926702
+*Instagram:* prismo.confeccion
+*Descuento AR:* (Sin descuento)
+*Otros:* Envío de presupuesto del servicio o producto que se necesite a través de WhatsApp o Instagram. Atención personalizada con cita previa programada. 
+*Categoria:* Moda & Diseño
+
+---
+
+*Codigo para agregar:*
+
+id: "1777992352149",
+nombre: "Nia Reniero",
+empresa: "El taller de Prismo",
+rubro: "Taller de diseño y confección textil ",
+descripcion: "En el Taller de Prismo encontrás 
+- Línea exclusiva de indumentaria unisex (camisas, chaquetas y sastrería). Diseños propios en stock o a pedido.
+- Confección a medida: atención personalizada para encontrar el diseño que más te guste y asesoramiento en la elección de telas.
+-Indumentaria para danza y teatro: confección de trajes y vestuarios temáticos.
+-Arreglos y transformaciones: reparaciones en general y reciclaje de prendas (Upcycling)",
+direccion: "",
+telefono: "3875926702",
+instagram: "prismo.confeccion",
+descuento: "",
+otros: "Envío de presupuesto del servicio o producto que se necesite a través de WhatsApp o Instagram. Atención personalizada con cita previa programada. ",
+categoria: "moda",
+
+---
+
+ArEndurance Team
+
+-------
+
+*NUEVO EMPRENDIMIENTO - ArEndurance*
+
+*Datos para agregar al directorio:*
+
+*Nombre:* ya esta Aconcagua
+*Empresa:* ya esta
+*Rubro:* ya esta
+*Descripcion:* todo lo que necesitas para entrenar y a la montaña. Ciclismo - Running - Trail - Trekking - Triatlon. 
+*Direccion:* ya esta
+*Telefono:* ya esta
+*Instagram:* ya esta
+*Descuento AR:* ya esta
+*Otros:* "Te ayudamos a elegir lo mejor para vos" 
+Lunes a Viernes de 10 a 19 hs
+*Categoria:* Deportivo
+
+---
+
+*Codigo para agregar:*
+
+id: "1777924612187",
+nombre: "ya esta Aconcagua",
+empresa: "ya esta",
+rubro: "ya esta",
+descripcion: "todo lo que necesitas para entrenar y a la montaña. Ciclismo - Running - Trail - Trekking - Triatlon. ",
+direccion: "ya esta",
+telefono: "ya esta",
+instagram: "ya esta",
+descuento: "ya esta",
+otros: ""Te ayudamos a elegir lo mejor para vos" 
+Lunes a Viernes de 10 a 19 hs",
+categoria: "deportivo",
+
+---
+
+ArEndurance Team
+
+---
+*NUEVO EMPRENDIMIENTO - ArEndurance*
+
+*Datos para agregar al directorio:*
+
+*Nombre:* Caro Minola
+*Empresa:* Liketech
+*Rubro:* SERVICIO TECNICO ESPECIALIZADO
+*Descripcion:* Venta de equipos y reparación de iPfone - reparación de placa - cambio de pantalla - cambio de batería - limpieza completa - cambio de pin de carga - cambio de vidrio trasero. 
+*Direccion:* Alto Noa Shoping - Av. Peron Shel de la Loma - Av. Bicentenario 878
+*Telefono:* 3874679706
+*Instagram:* liketechargentina
+*Descuento AR:* 15 % en accesorios pagando en efectivo - transferencia
+*Otros:* venta de: fundas para tu iPhone - Parlantes JBL - auriculares y mucho más
+*Categoria:* Tecnología
+
+---
+
+*Codigo para agregar:*
+
+id: "1777987369769",
+nombre: "Caro Minola",
+empresa: "Liketech",
+rubro: "SERVICIO TECNICO ESPECIALIZADO",
+descripcion: "Venta de equipos y reparación de iPfone - reparación de placa - cambio de pantalla - cambio de batería - limpieza completa - cambio de pin de carga - cambio de vidrio trasero. ",
+direccion: "Alto Noa Shoping - Av. Peron Shel de la Loma - Av. Bicentenario 878",
+telefono: "3874679706",
+instagram: "liketechargentina",
+descuento: "15 % en accesorios pagando en efectivo - transferencia",
+otros: "venta de: fundas para tu iPhone - Parlantes JBL - auriculares y mucho más",
+categoria: "tecnologia",
+
+---
+
+ArEndurance Team
+
+
+
+*NUEVO EMPRENDIMIENTO - ArEndurance*
+
+*Datos para agregar al directorio:*
+
+*Nombre:* Lic Andrea Sánchez 
+*Empresa:* Kinesica
+*Rubro:* Kinesiología Dermatofuncional 
+*Descripcion:* Tratamientos faciales 
+Tratamientos corporales 
+Depilación definitiva
+
+*Direccion:* 25 de mayo 330
+*Telefono:* +54 9 3876 85-5172
+*Instagram:* Kinesica.salta
+*Descuento AR:* 20% en cualquier pack mensual Y Depilacion cuerpo completo $30000
+*Otros:* Atendemos lunes a sábados de 8 a 11 y de 15 a 21 hs 
+*Categoria:* Salud & Bienestar
+
+---
+
+*Codigo para agregar:*
+
+id: "1777948166308",
+nombre: "Lic Andrea Sánchez ",
+empresa: "Kinesica",
+rubro: "Kinesiología Dermatofuncional ",
+descripcion: "Tratamientos faciales 
+Tratamientos corporales 
+Depilación definitiva
+",
+direccion: "25 de mayo 330",
+telefono: "+54 9 3876 85-5172",
+instagram: "Kinesica.salta",
+descuento: "20% en cualquier pack mensual Y Depilacion cuerpo completo $30000",
+otros: "Atendemos lunes a sábados de 8 a 11 y de 15 a 21 hs ",
+categoria: "salud",
+
+---
+
+ArEndurance Team
+
+
+*NUEVO EMPRENDIMIENTO - ArEndurance*
+
+*Datos para agregar al directorio:*
+
+*Nombre:* Camila Castro
+*Empresa:* Baru joyas
+*Rubro:* Joyas de plata y acero 
+*Descripcion:* Joyas de plata 925 y acero blanco u dorado
+*Direccion:* Barrio san carlos
+*Telefono:* 3874133477
+*Instagram:* Baru_joyas
+*Descuento AR:* 10
+*Otros:* Atendemos en local con cita previa y hacemos envios
+*Categoria:* Moda & Diseño
+
+---
+
+*Codigo para agregar:*
+
+id: "1777927528613",
+nombre: "Camila Castro",
+empresa: "Baru joyas",
+rubro: "Joyas de plata y acero ",
+descripcion: "Joyas de plata 925 y acero blanco u dorado",
+direccion: "Barrio san carlos",
+telefono: "3874133477",
+instagram: "Baru_joyas",
+descuento: "10",
+otros: "Atendemos en local con cita previa y hacemos envios",
+categoria: "moda",
+
+---
+
+ArEndurance Team
+
+
+*NUEVO EMPRENDIMIENTO - ArEndurance*
+
+*Datos para agregar al directorio:*
+
+*Nombre:* Lore Cayo Orellana
+*Empresa:* ya esta
+*Rubro:* ya esta
+*Descripcion:* Realizamos Flyers - stikers - lonas - vinilos - carteles - impresiones en general. 
+*Direccion:* (Sin direccion)
+*Telefono:* ya esta
+*Instagram:* no tiene
+*Descuento AR:* nop
+*Otros:* Damos forma a tus ideas 
+*Categoria:* Tecnología
+
+---
+
+*Codigo para agregar:*
+
+id: "1777924302730",
+nombre: "Lore Cayo Orellana",
+empresa: "ya esta",
+rubro: "ya esta",
+descripcion: "Realizamos Flyers - stikers - lonas - vinilos - carteles - impresiones en general. ",
+direccion: "",
+telefono: "ya esta",
+instagram: "no tiene",
+descuento: "nop",
+otros: "Damos forma a tus ideas ",
+categoria: "tecnologia",
+
+---
+
+ArEndurance Team
+
+
+*NUEVO EMPRENDIMIENTO - ArEndurance*
+
+*Datos para agregar al directorio:*
+
+*Nombre:* Andy Guzman
+*Empresa:* INTEGRAL
+*Rubro:* Panaderia Integral
+*Descripcion:* Elaboración de panes, prepizzas, pepas y mas. Todo 100 % con harina integral.   
+*Direccion:* (Sin direccion)
+*Telefono:* 3875478280
+*Instagram:* @integral.panesymas
+*Descuento AR:* (Sin descuento)
+*Otros:* (Sin informacion adicional)
+*Categoria:* Salud & Bienestar
+
+---
+
+*Codigo para agregar:*
+
+id: "1777923931349",
+nombre: "Andy Guzman",
+empresa: "INTEGRAL",
+rubro: "Panaderia Integral",
+descripcion: "Elaboración de panes, prepizzas, pepas y mas. Todo 100 % con harina integral.   ",
+direccion: "",
+telefono: "3875478280",
+instagram: "@integral.panesymas",
+descuento: "",
+otros: "",
+categoria: "salud",
+
+---
+
+ArEndurance Team
