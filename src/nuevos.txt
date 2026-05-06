@@ -266,3 +266,40 @@ categoria: "salud",
 ---
 
 ArEndurance Team
+
+---
+
+*NUEVO EMPRENDIMIENTO - ArEndurance*
+
+*Datos para agregar al directorio:*
+
+*Nombre:* Elia Allende 
+*Empresa:* Consultora Magenta 
+*Rubro:* Potenciamos marcas y equipos. Consultoría empresarial. Comunicación digital. Gestión del talento humano.
+*Descripcion:* Consultoría contable y financiera. Coaching ontológico profesional. Comunicación digital y gestión de proyectos. Selección de talento humano para tu equipo. Cursos implementación IA en tu empresa
+*Direccion:* (Sin direccion)
+*Telefono:* 3884 718567/ 3875846090
+*Instagram:* consultoramagenta
+*Descuento AR:* 10%
+*Otros:* (Sin informacion adicional)
+*Categoria:* Servicios
+
+---
+
+*Codigo para agregar:*
+
+id: "1778078078554",
+nombre: "Elia Allende ",
+empresa: "Consultora Magenta ",
+rubro: "Potenciamos marcas y equipos. Consultoría empresarial. Comunicación digital. Gestión del talento humano.",
+descripcion: "Consultoría contable y financiera. Coaching ontológico profesional. Comunicación digital y gestión de proyectos. Selección de talento humano para tu equipo. Cursos implementación IA en tu empresa",
+direccion: "",
+telefono: "3884 718567/ 3875846090",
+instagram: "consultoramagenta",
+descuento: "10%",
+otros: "",
+categoria: "servicios",
+
+---
+
+ArEndurance Team

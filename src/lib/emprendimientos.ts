@@ -320,7 +320,7 @@ export const emprendimientos: Emprendimiento[] = [
   },
   {
     id: "23",
-    nombre: "Rochi Cabolo",
+    nombre: "Rochi Cavolo",
     empresa: "Cuadros y Láminas",
     rubro: "Arte",
     descripcion: "Pinturas inspiradas 100% en la naturaleza. Pinceladas sueltas y desprolijas. Cada pintura es única e irrepetible.",
@@ -421,6 +421,19 @@ export const emprendimientos: Emprendimiento[] = [
     descuento: "",
     otros: "",
     categoria: "tecnologia",
+  },
+  {
+    id: "31",
+    nombre: "Elia Allende",
+    empresa: "Consultora Magenta",
+    rubro: "Potenciamos marcas y equipos. Consultoría empresarial. Comunicación digital. Gestión del talento humano.",
+    descripcion: "Consultoría contable y financiera. Coaching ontológico profesional. Comunicación digital y gestión de proyectos. Selección de talento humano para tu equipo. Cursos implementación IA en tu empresa.",
+    direccion: "",
+    telefono: "3884 718567 / 3875846090",
+    instagram: "consultoramagenta",
+    descuento: "10% por ser familia AR",
+    otros: "",
+    categoria: "servicios",
   },
 ];
 
