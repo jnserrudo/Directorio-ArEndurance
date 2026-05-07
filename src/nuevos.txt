@@ -303,3 +303,39 @@ categoria: "servicios",
 ---
 
 ArEndurance Team
+
+
+*NUEVO EMPRENDIMIENTO - ArEndurance*
+
+*Datos para agregar al directorio:*
+
+*Nombre:* Clara Molinari
+*Empresa:* Clara Molinari
+*Rubro:* Contadora Pública 
+*Descripcion:* Contadora en impuestos y sueldos
+*Direccion:* (Sin direccion)
+*Telefono:* 3874494574
+*Instagram:* (Sin Instagram)
+*Descuento AR:* (Sin descuento)
+*Otros:* (Sin informacion adicional)
+*Categoria:* Servicios
+
+---
+
+*Codigo para agregar:*
+
+id: "1778098063434",
+nombre: "Clara Molinari",
+empresa: "Clara Molinari",
+rubro: "Contadora Pública ",
+descripcion: "Contadora en impuestos y sueldos",
+direccion: "",
+telefono: "3874494574",
+instagram: "",
+descuento: "",
+otros: "",
+categoria: "servicios",
+
+---
+
+ArEndurance Team

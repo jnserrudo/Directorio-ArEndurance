@@ -435,6 +435,19 @@ export const emprendimientos: Emprendimiento[] = [
     otros: "",
     categoria: "servicios",
   },
+  {
+    id: "32",
+    nombre: "Clara Molinari",
+    empresa: "Clara Molinari",
+    rubro: "Contadora Pública",
+    descripcion: "Contadora en impuestos y sueldos",
+    direccion: "",
+    telefono: "3874494574",
+    instagram: "",
+    descuento: "",
+    otros: "",
+    categoria: "servicios",
+  },
 ];
 
 // Campos sugeridos para solicitar a los emprendedores
