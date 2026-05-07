@@ -42,7 +42,7 @@ export const emprendimientos: Emprendimiento[] = [
   },
   {
     id: "2",
-    nombre: "Rochi Cabolo",
+    nombre: "Rochi Cavolo",
     empresa: "CADICH",
     rubro: "Piezas de autor en cuero",
     descripcion: "Ropa y accesorios de cuero hechos a mano EN SALTA. Diseños personalizados.",
@@ -200,7 +200,7 @@ export const emprendimientos: Emprendimiento[] = [
     otros: "",
     categoria: "servicios",
   },
-  {
+  /* {
     id: "14",
     nombre: "Lore",
     empresa: "Diseñadora Gráfica",
@@ -212,7 +212,7 @@ export const emprendimientos: Emprendimiento[] = [
     descuento: "",
     otros: "",
     categoria: "servicios",
-  },
+  }, */
   {
     id: "15",
     nombre: "Gise",
@@ -416,7 +416,7 @@ export const emprendimientos: Emprendimiento[] = [
     rubro: "Diseño gráfico e impresiones",
     descripcion: "Realizamos flyers, stickers, lonas, vinilos, carteles e impresiones en general. Damos forma a tus ideas.",
     direccion: "",
-    telefono: "",
+    telefono: "3876116118",
     instagram: "",
     descuento: "",
     otros: "",
@@ -447,6 +447,19 @@ export const emprendimientos: Emprendimiento[] = [
     descuento: "",
     otros: "",
     categoria: "servicios",
+  },
+  {
+    id: "33",
+    nombre: "Maria Emilia Vargas",
+    empresa: "emiliamatfit",
+    rubro: "Profesora de pilates/ Clases personalizadas",
+    descripcion: "Entrenamiento personalizado/cardio/funcional",
+    direccion: "Bolivar 584",
+    telefono: "3875708670",
+    instagram: "emiliamatfit",
+    descuento: "15% primer mes por ser familia AR. ENDURANCE",
+    otros: "Horarios mañana, tarde y noche. Lunes a viernes!",
+    categoria: "salud",
   },
 ];
 

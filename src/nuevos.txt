@@ -339,3 +339,41 @@ categoria: "servicios",
 ---
 
 ArEndurance Team
+
+
+
+
+*NUEVO EMPRENDIMIENTO - ArEndurance*
+
+*Datos para agregar al directorio:*
+
+*Nombre:* Maria Emilia Vargas 
+*Empresa:* emiliamatfit
+*Rubro:* Profesora de pilates/ Clases personalizadas 
+*Descripcion:* Entrenamiento personalizado/cardio/funcional
+*Direccion:* Bolivar 584
+*Telefono:* 3875708670
+*Instagram:* emiliamatfit
+*Descuento AR:* 15% primer mes por ser familia AR. ENDURANCE
+*Otros:* Horarios mañana, tarde y noche. Lunes a viernes!
+*Categoria:* Salud & Bienestar
+
+---
+
+*Codigo para agregar:*
+
+id: "1778011460617",
+nombre: "Maria Emilia Vargas ",
+empresa: "emiliamatfit",
+rubro: "Profesora de pilates/ Clases personalizadas ",
+descripcion: "Entrenamiento personalizado/cardio/funcional",
+direccion: "Bolivar 584",
+telefono: "3875708670",
+instagram: "emiliamatfit",
+descuento: "15% primer mes por ser familia AR. ENDURANCE",
+otros: "Horarios mañana, tarde y noche. Lunes a viernes!",
+categoria: "salud",
+
+---
+
+ArEndurance Team
